@@ -1,0 +1,69 @@
+/*Base*/
+
+}
+.container{
+	height: 100%;
+}
+.addTask{
+	background-color: #34c437 !important;
+	border-color:#34c437 !important;
+	margin-top: 20px;
+}
+
+/*Table style*/
+table{
+	margin-top: 20px;
+}
+thead{
+	background-color: #d5d5d5;
+}
+tbody{
+	background-color: #ffffff;
+}
+/*
+.fa-check-square{
+	color: #8cdf3c;
+	font-size: 20px;
+ }
+.fa-check{
+	float: left;
+	color: #8cdf3c;
+	border-radius: 2px;
+}
+p.task{
+	position: relative;
+	left: 15px;
+	top: -5px;
+}
+.Zemas{
+	padding: 10px;
+	border-radius: 5px;
+	background-color: #8cdf3c;
+}
+.Aukstas{
+	padding: 10px;
+	border-radius: 5px;
+	background-color: #ff4033;
+}
+.Normalus{
+	padding: 10px;
+	border-radius: 5px;
+	background-color: #74afff;
+}
+/*
+#dataForm{
+	display: none;
+}
+.del{
+	background-color: #b21f2d;
+	color: #f9f9f9;
+	border-radius: 5px;
+	border:1px solid #b21f2d;
+}
+.edit{
+	margin-top: 5px;
+	background-color: green;
+	color: #f9f9f9;
+	border-radius: 5px;
+	border:1px solid green;
+}
